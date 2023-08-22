@@ -2,12 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/OOPGK" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOPWeek10" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOPWeek11" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOPWeek12" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/OOPWeek6-1/BomberMan" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOPWeek7-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OOPWeek8" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOPWeek9" vcs="Git" />
   </component>
 </project>
